@@ -1,0 +1,1 @@
+Initial slang detection dataset for testing: https://huggingface.co/datasets/SohailaMohammed/BERTSlangDetectionInitial
