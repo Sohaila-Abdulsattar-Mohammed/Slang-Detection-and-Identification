@@ -1,1 +1,4 @@
 Initial slang detection dataset for testing: https://huggingface.co/datasets/SohailaMohammed/BERTSlangDetectionInitial
+Initial slang identification dataset for testing: https://huggingface.co/datasets/SohailaMohammed/BERTSlangIdentificationInitial
+Final slang detection dataset: https://huggingface.co/datasets/SohailaMohammed/BERTSlangDetection
+Final slang identification dataset: https://huggingface.co/datasets/SohailaMohammed/BERTSlangIdentification
