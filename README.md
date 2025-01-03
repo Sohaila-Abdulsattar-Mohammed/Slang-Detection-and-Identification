@@ -1,6 +1,6 @@
 # Slang Detection and Identification using BERT
 
-This repository contains the code, datasets, and results for our work on **Slang Detection and Identification** using **BERT**, a transformer-based model. The project addresses the challenges of understanding the dynamic and informal nature of English slang by fine-tuning BERT for two key tasks: 
+This repository contains the code, datasets, and results for our work on **Slang Detection and Identification** using **BERT**, a transformer-based model. Our research paper, which provides a comprehensive overview of our methodology, experiments, and findings, is also available in this repository. The project addresses the challenges of understanding the dynamic and informal nature of English slang by fine-tuning BERT for two key tasks: 
 1. **Slang Detection** (binary classification at the sentence level).
 2. **Slang Identification** (token-level tagging using the BIO scheme).
 
